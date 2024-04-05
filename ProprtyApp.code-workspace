@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Task2/MyApp/src"
+		},
+		{
+			"path": "../../Task2/MyApp/screens"
+		}
+	],
+	"settings": {}
+}

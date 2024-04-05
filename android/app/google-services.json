@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "144849137350",
+    "project_id": "propertyapp-a889a",
+    "storage_bucket": "propertyapp-a889a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144849137350:android:82aa2b49575bb0edf431c7",
+        "android_client_info": {
+          "package_name": "com.proprtyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144849137350-72ec0r4pvalndt2dl6msdokog1j40bm4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWbFdluftVUFcbnTQjtzRd48i33R-R14Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144849137350-72ec0r4pvalndt2dl6msdokog1j40bm4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "144849137350-1n14q3jbfn2pvifcqrt5qe1qpc2c6lqd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.ProprtyApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
