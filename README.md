@@ -1,4 +1,4 @@
-![1](https://github.com/Abdilah21/React-Native-App-Abdilah/assets/107687204/d28c01c2-9976-4a46-9539-1b06a4eb2cd1)
+<img src="AppPictures/1.png"
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
