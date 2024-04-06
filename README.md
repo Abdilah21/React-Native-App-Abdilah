@@ -1,4 +1,4 @@
-<img src="AppPictures/1.png"
+<img src="/Users/abdilah/Documents/Task3/ProprtyApp/AppPictures/1.png"
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
